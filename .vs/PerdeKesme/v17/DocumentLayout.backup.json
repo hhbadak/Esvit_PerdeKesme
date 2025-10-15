@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|c:\\users\\user\\source\\repos\\perdekesme\\perdekesme\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|solutionrelative:perdekesme\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\perdekesme\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|solutionrelative:perdekesme\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\perdekesme\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|solutionrelative:perdekesme\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\perdekesme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|solutionrelative:perdekesme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\perdekesme\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|solutionrelative:perdekesme\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\perdekesme\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|solutionrelative:perdekesme\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\perdekesme\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|solutionrelative:perdekesme\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\dataaccesslayer\\kalite_perdekesme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\kalite_perdekesme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\dataaccesslayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\perdekesme\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1639506-42C5-446E-8603-49505BEED5E2}|PerdeKesme\\PerdeKesme.csproj|solutionrelative:perdekesme\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\dataaccesslayer\\qualitylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\qualitylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\dataaccesslayer\\resultlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\resultlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\USER\\source\\repos\\PerdeKesme\\dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C454BC6C-0300-49C3-AC82-16973377B72B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\LoginPage.Designer.cs",
+              "RelativeDocumentMoniker": "PerdeKesme\\LoginPage.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\LoginPage.Designer.cs",
+              "RelativeToolTip": "PerdeKesme\\LoginPage.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAvwIUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:46:41.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\LoginPage.cs",
+              "RelativeDocumentMoniker": "PerdeKesme\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\LoginPage.cs",
+              "RelativeToolTip": "PerdeKesme\\LoginPage.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:46:33.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Helpers.cs",
+              "RelativeDocumentMoniker": "PerdeKesme\\Helpers.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Helpers.cs",
+              "RelativeToolTip": "PerdeKesme\\Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:46:18.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Home.cs",
+              "RelativeDocumentMoniker": "PerdeKesme\\Home.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Home.cs",
+              "RelativeToolTip": "PerdeKesme\\Home.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:45:16.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "PerdeKesme\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Home.Designer.cs",
+              "RelativeToolTip": "PerdeKesme\\Home.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAvwH8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:44:57.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Program.cs",
+              "RelativeDocumentMoniker": "PerdeKesme\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Program.cs",
+              "RelativeToolTip": "PerdeKesme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:44:49.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\LoginPage.cs",
+              "RelativeDocumentMoniker": "PerdeKesme\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\LoginPage.cs [Design]",
+              "RelativeToolTip": "PerdeKesme\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:44:46.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Home.cs",
+              "RelativeDocumentMoniker": "PerdeKesme\\Home.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\PerdeKesme\\Home.cs [Design]",
+              "RelativeToolTip": "PerdeKesme\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:44:39.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QualityList.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\QualityList.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\QualityList.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\QualityList.cs",
+              "RelativeToolTip": "DataAccessLayer\\QualityList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:44:15.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultList.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\ResultList.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ResultList.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\ResultList.cs",
+              "RelativeToolTip": "DataAccessLayer\\ResultList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:40:16.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kalite_PerdeKesme.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\Kalite_PerdeKesme.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Kalite_PerdeKesme.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\Kalite_PerdeKesme.cs",
+              "RelativeToolTip": "DataAccessLayer\\Kalite_PerdeKesme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:40:02.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\Employee.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\Employee.cs",
+              "RelativeToolTip": "DataAccessLayer\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:39:49.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\DataModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\DataModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:39:40.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PerdeKesme\\DataAccessLayer\\ConnectionStrings.cs",
+              "RelativeToolTip": "DataAccessLayer\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:39:30.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

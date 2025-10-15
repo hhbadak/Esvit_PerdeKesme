@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\bin\Debug\PerdeKesme.exe.config
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\bin\Debug\PerdeKesme.exe
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\bin\Debug\PerdeKesme.pdb
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\obj\Debug\PerdeKesme.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\obj\Debug\PerdeKesme.Properties.Resources.resources
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\obj\Debug\PerdeKesme.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\obj\Debug\PerdeKesme.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\obj\Debug\PerdeKesme.exe
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\obj\Debug\PerdeKesme.pdb
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\bin\Debug\DataAccessLayer.dll
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\obj\Debug\PerdeKesme.csproj.Up2Date
+C:\Users\USER\source\repos\PerdeKesme\PerdeKesme\obj\Debug\PerdeKesme.LoginPage.resources
